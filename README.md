@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
-
 - 🤝 I’m looking for help with **AI/ML**
 
 - 💬 Ask me about **AI/ML**

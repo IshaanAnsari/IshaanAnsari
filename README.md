@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **mihansari.jh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+[![@ishaanansari's Holopin board](https://holopin.me/ishaanansari)](https://holopin.io/@ishaanansari)
+
 <p align="left">
 </p>
 
